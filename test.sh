@@ -1,1 +1,1 @@
-echo "test scipript"
+echo "test script"
